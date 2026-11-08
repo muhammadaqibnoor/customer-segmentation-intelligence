@@ -2,6 +2,10 @@
 
 An interactive Data Science project that analyzes customer purchasing behavior using RFM analysis, K-Means clustering, and Customer Lifetime Value (CLV) metrics.
 
+## Live Dashboard
+
+[Open Customer Segmentation & Intelligence Dashboard](https://customer-segmentation-intelligence-swezvikpnnei8a43wue5gl.streamlit.app/)
+
 ## Project Overview
 
 This project segments customers into meaningful groups based on their purchasing behavior and provides actionable business insights through an interactive Streamlit dashboard.
